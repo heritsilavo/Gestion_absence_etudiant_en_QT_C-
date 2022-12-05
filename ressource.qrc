@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>background/26e64aee79e007f69a4ea0f871208e48.jpg</file>
+        <file>background/inscription.png</file>
+        <file>background/ens.png</file>
+        <file>background/abs.png</file>
+    </qresource>
+</RCC>
